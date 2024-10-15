@@ -1,0 +1,6 @@
+Appointment ID,Provider,Service,Date,Start Time,End Time,Customer,Internal Note
+1,sdfs,wwww,,00:00:10,00:00:10,ol,sadcs
+2,sdfs,wwww,,00:00:10,00:00:10,ol,sadcs
+3,sdfs,wwww,,00:00:00,00:00:00,ol,sadcs
+4,sdfs,wwww,2024-10-08,10:00:00,11:00:00,ol,First-time appointment
+5,sdfs,wwww,2024-10-08,10:00:00,11:00:00,ol,dafdsf
